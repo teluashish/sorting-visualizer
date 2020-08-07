@@ -19,7 +19,7 @@ class Main extends React.Component{
   makeArray(){
     const array=[];
     for(var i=0;i<this.state.size;i++){
-        array.push(getRandomIntegerFromInterval(0,this.state.size));
+        array.push(getRandomIntegerFromInterval(1,this.state.size));
     }
     this.setState({array});
 
