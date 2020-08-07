@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Sorting Visualizer Project
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</br></br>
+Welcome to Sorting Visualizer! I made this React Application to Visualize Sorting Algorithms in a colorful way, I hope you'll like my project.</br> Stack used: ==> React,Javascript,CSS3,HTML5,JSX</br></br>
+### Sorting Algorithms included:</br>
+   #### => Bubble Sort</br>
+   #### => Selection Sort</br>
+   #### => Insertion Sort<br/>
+   #### => Merge Sort<br/>
+   #### => Quick Sort<br/>
+   ..... and i hope to inlcude many more.</br></br>
+### Here is the preview of the project</br>
+
+![sortGIF](https://github.com/teluashish/Sorting-Visualizer/blob/master/sort.gif)</br></br>
 
 ## Available Scripts
 
@@ -67,4 +80,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-![sortGIF](https://github.com/teluashish/Sorting-Visualizer/blob/master/sort.gif)
+
