@@ -1,7 +1,7 @@
 
 ## Sorting Visualizer Project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</br></br>
-Welcome to Sorting Visualizer! I made this React Application to Visualize Sorting Algorithms in a colorful way, I hope you'll like my project.</br> Stack used: ==> React,Javascript,CSS3,HTML5,JSX</br></br>
+Welcome to Sorting Visualizer! I made this React Application to Visualize Sorting Algorithms in a colorful way, I hope you'll like my project as much as i liked making it.</br> Stack used: ==> React,Javascript,CSS3,HTML5,JSX</br></br>
 ### Sorting Algorithms included:</br>
    #### => Bubble Sort</br>
    #### => Selection Sort</br>
