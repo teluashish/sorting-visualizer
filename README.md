@@ -9,7 +9,7 @@ Welcome to Sorting Visualizer! I made this React Application to Visualize Sortin
    #### => Insertion Sort<br/>
    #### => Merge Sort<br/>
    #### => Quick Sort<br/>
-   ..... and i hope to inlcude many more.</br></br>
+   ..... and I hope to inlcude many more.</br></br>
 ### Here is the preview of the project</br>
 
 ![sortGIF](https://github.com/teluashish/Sorting-Visualizer/blob/master/sort.gif)</br></br>
